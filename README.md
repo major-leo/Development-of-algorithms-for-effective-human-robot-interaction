@@ -1,2 +1,4 @@
 # Development-of-algorithms-for-effective-human-robot-interaction
-This project aims to facilitate synergistic communication between humans, robots
+Technology has rapidly been improving within the last decade. Standing at the forefront of this has been the field of AI and robotics and, thus, the realm of Human-Robot Interaction. As AI and digitization see unprecedented growth and integration within human society, the importance of developing a natural, smooth experience between people and robots is highlighted.
+
+This project aims to facilitate synergistic communication between humans, robots, and in turn AI, specifically through integrating OpenAI's ChatGPT into LuxAI’s QTrobot, creating an intuitive human-robot interaction between the two systems. This enables it to engage with users in real-time conversations by utilizing OpenAI's Natural Language Processing and QTrobot's sensors and movement to create an interactive, smoother, and natural-seeming conversation.
